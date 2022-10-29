@@ -10,7 +10,7 @@ ___
      * 
      * ```parse(__filename)``` - Returns an object of the file's name, directory, extention, base and root. 
 
-
+<br/>
 
 
 2. `fs`
@@ -55,6 +55,7 @@ ___
    })
    ```
 
+<br/>
 
 3. `os`
 
@@ -117,3 +118,5 @@ ___
       ```
         
 
+
+<br/>
