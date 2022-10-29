@@ -2,13 +2,13 @@
 ___
 
 1. `path`
-  * ```basename(__filename)``` - Returns the name of the file
+     * ```basename(__filename)``` - Returns the name of the file
 
-  * ```dirname(__filename)``` - Returns the name of the file's directory
+     * ```dirname(__filename)``` - Returns the name of the file's directory
 
-  * ```extname(__filename)``` - Returns the name of the file's extention
-  * 
-  * ```parse(__filename)``` - Returns an object of the file's name, directory, extention, base and root. 
+     * ```extname(__filename)``` - Returns the name of the file's extention
+     * 
+     * ```parse(__filename)``` - Returns an object of the file's name, directory, extention, base and root. 
 
 
 
