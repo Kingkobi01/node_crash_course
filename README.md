@@ -7,3 +7,5 @@ ___
   * ```dirname(__filename)```  returns the name of the file's directory
 
   * ```extname(__filename)```  returns the name of the file's extention
+  * 
+  * ```parse(__filename)```  returns an object of the file's name, directory, extention, base and root. 
